@@ -17,6 +17,7 @@ const Wrapper = styled.div`
     .logo_icon {
       margin-top: 5px;
       height: 60px;
+      cursor: pointer;
       filter: ${(props) => props.theme.logoFilter};
     }
   }
