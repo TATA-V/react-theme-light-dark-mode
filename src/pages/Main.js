@@ -313,7 +313,7 @@ const LargeImg = styled.div`
       height: 390px;
       width: 525px;
       border-radius: 17px;
-      background: url("${imageGif}") no-repeat center;
+      background: url(${imageGif}) no-repeat center;
       background-size: 140%;
       transition: 0.3s linear;
     }
