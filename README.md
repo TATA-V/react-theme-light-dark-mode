@@ -1,6 +1,3 @@
-**🔗배포 링크** : https://react-theme-light-dark-mode.vercel.app/
-
------
 
 **다크 모드 적용**
 
